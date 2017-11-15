@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"Boxy Theme",
+		"Git",
+		"Non Text Files",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Monokai Pro"
+	]
+}

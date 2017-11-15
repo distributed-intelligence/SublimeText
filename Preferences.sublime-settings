@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_externally_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.zip",
+		"*.pdf"
+	],
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_scrollbar_colored": true,
+	"theme_sidebar_icon_saturation_md": true,
+	"theme_sidebar_indent_md": true,
+	"theme_sidebar_indent_top_level_disabled": true,
+	"theme_tab_selected_overlined": true,
+	"theme_unified": true
+}
